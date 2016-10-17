@@ -70,7 +70,7 @@
 	 </select>
 
   <label for="idQuantidade">Quantidade</label>
-  <input id="idQuantidade" type="range" min="1" max="50" value="0" step="5" onchange="showValue(this.value)" />
+  <input id="idQuantidade" type="range" min="1" max="50" name="quantidade" step="1" onchange="showValue(this.value)" />
   <span id="range">0</span>
   
   <br>
