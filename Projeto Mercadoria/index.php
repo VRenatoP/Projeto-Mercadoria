@@ -64,8 +64,8 @@
     <label for="idTipoNegocio">Tipo Negocio</label>
 
       <select id="idTipoNegocio" name="tipoNegocio" required>
-		<option value="1">Compra</option>
-		<option value="2">Venda</option>
+		<option value="Compra">Compra</option>
+		<option value="Venda">Venda</option>
 		 
 	 </select>
 
