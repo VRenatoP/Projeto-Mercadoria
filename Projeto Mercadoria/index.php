@@ -54,7 +54,7 @@
 
 <br/>
 <label>Preço</label>
-<input id="idPrecoMercadoria" type="text"  name="currency-field"
+<input id="idPrecoMercadoria" type="text"  name="preco"
  value="" data-type="currency" placeholder="R$ 1,000,000.00" required
 />
    
